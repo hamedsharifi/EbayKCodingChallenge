@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ebay Kleinanzeigen</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price">%1$s %2$s</string>
+
+    <string name="ad_address">%1$s, %2$s, %3$s</string>
+    <string name="ad_id">ID:%1$s</string>
+    <string name="details">Details</string>
+    <string name="ausstattung">Ausstattung</string>
+    <string name="weitere_informationen">Weitere Informationen</string>
+    <string name="beschreibung">Beschreibung</string>
+    <string name="feature_value">%1$s %2$s</string>
+    <string name="image_position">%1$d</string>
+
+
+
+    <string name="tick">cfg</string>
+    <string name="title">title</string>
+    <string name="application_not_found">Application not found</string>
+    <string name="wohnfl_che">Wohnfläche</string>
+    <string name="weitere_image">weitere_image</string>
+    <string name="grundriss">Grundriss</string>
+    <string name="document">document</string>
+    <string name="share">share</string>
+    <string name="_13">13</string>
+    <string name="_dash">/</string>
+    <string name="_20">20</string>
+    <string name="sampleTitle">!Erstbezug! Dachgeschosswohnung mit Bodenheizung</string>
+    <string name="_1_260">1.260</string>
+    <string name="ad_date">date</string>
+    <string name="_11_02_2020">11.02.2020</string>
+    <string name="visit_count">visit_count</string>
+    <string name="_122">122</string>
+</resources>
